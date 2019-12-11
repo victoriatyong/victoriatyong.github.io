@@ -8,19 +8,19 @@ body {
 }
 .bullet {
     list-style-type: none;
-    margin-left: 70%;
+    margin-left: 60%;
 }
 
 
 .horizontal {
-    float: left;
     text-decoration: none;
     margin-right: 30px;
     margin-top: 5%;
     list-style-type: none;
+    float: right;
 }
 .navbardiv {
-    width: 65%;
+    width: 60%;
     height: 80px;
     margin-left: auto;
     margin-right: auto;
@@ -39,7 +39,7 @@ body {
     width: 80%;
     text-align: center;
     height: auto;
-    margin-left: -268%;
+    margin-left: -174%;
     float: left;
     bottom: 7px;
 }
@@ -53,10 +53,8 @@ body {
     height: auto;
     font-size: 25px;
     position: relative;
-    float: left;
-    right: 30%;
     top: 5px;
-    margin-right: 2px;
+    width: 0px;
 }
 .navbartext:hover {
     color: #F8A2A4;
@@ -146,10 +144,10 @@ body {
     margin-right: auto;
 }
 .socialmedia {
-    margin-left: auto;
-    margin-right: auto;
-    width: 0%;
+    width: 300px;
     text-align: center;
+    margin-left: 750px;
+    margin-top: 30px;
 }
 
 .socialmediaIcons {
