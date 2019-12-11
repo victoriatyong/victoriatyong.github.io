@@ -6,6 +6,7 @@ body {
     height: 1500px;
     background-color: #D9DFDE;
 }
+
 .bullet {
     list-style-type: none;
     margin-left: 60%;
@@ -81,9 +82,9 @@ body {
 }
 .ProjectBlurb {
     text-align: center;
-    width: 68%;
+    width: 65%;
     margin-left: 310px;
-    margin-top: -295px;
+    margin-top: -290px;
     height: 90%;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-size: 25px;
@@ -133,6 +134,7 @@ body {
     margin-left: 40%;
     height: 300px;
     text-align: center;
+    margin-top: 36px;
 }
 .aboutmeBlurb {
     text-align: center;
@@ -147,7 +149,7 @@ body {
     width: 300px;
     text-align: center;
     margin-left: 750px;
-    margin-top: 30px;
+    margin-top: 118px;
 }
 
 .socialmediaIcons {
@@ -177,7 +179,9 @@ body {
     width: 65%;
     margin-left: auto;
     margin-right: auto;
+    float: left;
 }
+
 .readmorebutton {
     width: 150px;
     background-color: #C4F3FF;
@@ -204,37 +208,85 @@ body {
     width: 60%;
     font-size: medium;
     text-align: center;
-    margin-left: 270px;
+    margin-left: 20%;
 }
-.title {
+.trailertitle {
     height: 60px;
-    width: 60%;
+    width: 40%;
     text-align: center;
-    margin-left: 270px;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-size: 50px;
+    margin-left: 30%;
+    margin-bottom: 10px;
 }
 .float {
-    float: left;
-    width: 22%;
-    margin-left: -4px;
+    width: 200px;
     padding-left: 0px;
+    height: 200px;
+    float: left;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .info {
-    width: 100%;
-    margin-left: 277px;
+    margin-top: 8px;
+    margin-left: 30%;
+    width: 69%;
 }
 .infotitle {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: bold;
-    width: 150px;
+    margin-top: -8px;
+    width: 120px;
 }
 
 
 .infodetail {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    margin-left: -123px;
     margin-bottom: 0px;
     top: 0px;
+    width: 300px;
+    height: 25px;
+    margin-left: -53px;
+    margin-top: 6px;
+    font-size: 14px;
+}
+.powerup {
+    float: left;
+    margin-left: 35%;
+    margin-bottom: 48px;
+}
+.powerupicon {
     width: 200px;
+    float: left;
+    margin-top: 30px;
+}
+.powerupblurb {
+    float: left;
+    width: 350px;
+    margin-left: 90px;
+    margin-top: 21px;
+}
+.skilltreeblurb {
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+}
+
+
+
+
+.skilltreeicons {
+    margin-left: 0px;
+    width: 550px;
+    height: 500px;
+    float: left;
+}
+.skilltree {
+    width: 80%;
+    height: 500px;
+    float: left;
+    margin-left: 25%;
+    margin-top: 40px;
 }
