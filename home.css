@@ -267,12 +267,14 @@ body {
     width: 350px;
     margin-left: 90px;
     margin-top: 21px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 .skilltreeblurb {
     float: left;
     width: 500px;
     height: 500px;
     margin-left: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 
 
@@ -296,6 +298,9 @@ body {
     margin-top: 13px;
     margin-left: 30%;
 }
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
 .NPCHam {
     float: left;
     margin-left: 30%;
@@ -310,4 +315,5 @@ body {
     width: 450px;
     float: left;
     margin-left: 35px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
