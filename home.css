@@ -261,6 +261,7 @@ body {
     float: left;
     margin-top: 30px;
 }
+
 .powerupblurb {
     float: left;
     width: 350px;
@@ -294,4 +295,19 @@ body {
     margin-bottom: 18px;
     margin-top: 13px;
     margin-left: 30%;
+}
+.NPCHam {
+    float: left;
+    margin-left: 35%;
+    margin-bottom: 48px;
+}
+
+.hamIcon {
+    width: 300px;
+    float: left;
+}
+.hamblurb {
+    width: 450px;
+    float: left;
+    margin-left: 35px;
 }
