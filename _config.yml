@@ -1,5 +1,0 @@
-name: Victoria Yong
-markdown: kramdown
-permalink: /projects/:title
-gems:
-  - jekyll-sitemap

@@ -1,0 +1,195 @@
+@charset "utf-8";
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 1500px;
+    background-color: #D9DFDE;
+}
+.bullet {
+    list-style-type: none;
+    margin-left: 70%;
+}
+
+
+.horizontal {
+    float: left;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-top: 5%;
+    list-style-type: none;
+}
+.navbardiv {
+    width: 65%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    border-bottom: thick groove #7D92A0;
+}
+.navbarName {
+    color: #2E4B77;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 40px;
+    position: relative;
+    list-style-type: none;
+    width: 80%;
+    text-align: center;
+    height: auto;
+    margin-left: -268%;
+    float: left;
+    bottom: 7px;
+}
+
+.navbartext {
+    color: #2E4B77;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    text-decoration: none;
+    height: auto;
+    font-size: 25px;
+    position: relative;
+    float: left;
+    right: 30%;
+    top: 5px;
+    margin-right: 2px;
+}
+.navbartext:hover {
+    color: #F8A2A4;
+}
+.navbartext:visited {
+    color: #B993FF;
+}
+.ProjectIcon {
+    background-color: #DF9C9D;
+    width: 100%;
+    height: 100%;
+}
+.ProjectTitle {
+    width: 100%;
+    font-size: x-large;
+    text-align: center;
+    padding: 0;
+    background-color: #F8F1F1;
+    margin-top: -0.4%;
+    border: 3px solid #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-left: -3px;
+    float: left;
+}
+.ProjectBlurb {
+    text-align: center;
+    width: 68%;
+    margin-left: 310px;
+    margin-top: -295px;
+    height: 90%;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    float: left;
+    position: relative;
+}
+.IconBoarder {
+    border-width: 3px;
+    border-right-style: solid;
+    border-right-color: #FFFFFF;
+}
+.LineSlider {
+    height: 300px;
+    background-color: #F8B4B5;
+    width: 50%;
+    position: relative;
+    left: 12.5%;
+    margin-top: 3.5%;
+    margin-left: 12%;
+    border: 3px solid #FFFFFF;
+    float: left;
+}
+.BeattheMachine {
+    height: 300px;
+    background-color: #F8B4B5;
+    width: 50%;
+    position: relative;
+    left: 12.5%;
+    margin-top: 5%;
+    float: left;
+    border: 3px solid #FFFFFF;
+    margin-left: 12%;
+}
+.PuzHamVR {
+    height: 300px;
+    background-color: #F8B4B5;
+    width: 50%;
+    position: relative;
+    left: 12.5%;
+    margin-top: 5%;
+    float: left;
+    border: 3px solid #FFFFFF;
+    margin-left: 12%;
+}
+.aboutmeImage {
+    width: 300px;
+    margin-left: 40%;
+    height: 300px;
+    text-align: center;
+}
+.aboutmeBlurb {
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 150%;
+    margin-right: auto;
+}
+.socialmedia {
+    margin-left: auto;
+    margin-right: auto;
+    width: 0%;
+}
+
+.socialmediaIcons {
+    float: left;
+    padding-right: 3%;
+    margin-left: 60px;
+    margin-right: 15px;
+}
+.emailIcon {
+    float: left;
+    padding-right: 1%;
+    margin-top: -4px;
+    margin-right: -20px;
+}
+
+.email {
+    text-align: center;
+    width: 350px;
+    height: 40px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    margin-left: auto;
+}
+.line {
+    border-bottom: thick groove #7D92A0;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.readmorebutton {
+    width: 150px;
+    background-color: #C4F3FF;
+    height: 50px;
+    margin-left: 40%;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 35px;
+    border: medium solid #000000;
+    text-align: center;
+}
+.readmore {
+    text-decoration: none;
+    margin-top: 0px;
+}
