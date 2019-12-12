@@ -349,10 +349,23 @@ h1 {
     left: 2.5%;
     height: 175px;
 }
+.BeattheMachine {
+    width: 90%;
+    left: 2.5%;
+    height: 175px;
+}
+.PuzHamVR {
+    width: 90%;
+    left: 2.5%;
+    height: 175px;
+}
 .ProjectText {
 }
 .ProjectBlurb {
     font-size: 12px;
+    margin-top: 12px;
+    width: 95%;
+    margin-right: 5px;
 }
 .ProjectTitle {
     font-size: 15px;
