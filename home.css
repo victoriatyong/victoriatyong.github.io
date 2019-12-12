@@ -344,6 +344,26 @@ h1 {
 .gapTop {
     width: 5%;
 }
+.LineSlider {
+    width: 90%;
+    left: 2.5%;
+    height: 175px;
+}
+.ProjectText {
+}
+.ProjectBlurb {
+    font-size: 12px;
+}
+.ProjectTitle {
+    font-size: 15px;
+    height: 20px;
+}
+.readmorebutton {
+    font-size: 15px;
+    width: 75px;
+    left: 40%;
+    height: 20px;
+}
 
 
 
