@@ -7,24 +7,30 @@ body {
 
 .bullet {
     list-style-type: none;
-    margin-left: 60%;
+    width: auto;
+    border-bottom-style: solid;
+    border-bottom-color: #050303;
+    padding-bottom: 16px;
 }
 
 
 .horizontal {
     text-decoration: none;
-    margin-right: 30px;
-    margin-top: 5%;
     list-style-type: none;
-    float: right;
+    display: inline-block;
+    width: 10%;
 }
+.gapTop {
+    display: inline-block;
+    width: 36%;
+}
+
 .navbardiv {
     width: 60%;
     height: 80px;
     margin-left: auto;
     margin-right: auto;
     padding: 0;
-    border-bottom: thick groove #7D92A0;
 }
 .navbarName {
     color: #2E4B77;
@@ -35,12 +41,10 @@ body {
     font-size: 40px;
     position: relative;
     list-style-type: none;
-    width: 80%;
+    width: 30%;
     text-align: center;
-    height: auto;
-    margin-left: -174%;
-    float: left;
-    bottom: 7px;
+    height: 100%;
+    display: inline-block;
 }
 
 .navbartext {
@@ -297,8 +301,6 @@ h1 {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 .ProjectText {
-    width: 57
-&;
     float: right;
     clear: right;
     height: 100%;
@@ -319,4 +321,30 @@ h1 {
 }
 .readmorebutton:hover {
     background-color: #A3D2E9;
+}
+
+@media (max-width:415px){
+.navbardiv {
+    width: 90%;
+}
+.horizontal {
+    width: 83px;
+}
+.navbarName {
+    font-size: 28px;
+    width: 100%;
+}
+.bullet {
+}
+
+.navbartext {
+    font-size: 20px;
+    width: 50px;
+}
+.gapTop {
+    width: 5%;
+}
+
+
+
 }
