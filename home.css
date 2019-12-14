@@ -211,17 +211,58 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-.info {
+.trailerinfo {
+    width: 75%;
+    position: relative;
+    display: inline-block;
+    margin-left: 20%;
+}
+.gameinfo {
     margin-top: 8px;
     margin-left: 30%;
-    width: 69%;
+    width: 50%;
 }
+.gamedetails {
+    float: left;
+    height: 150px;
+}
+
+.gameinfotitle {
+    margin-left: 27%;
+    width: 120px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    margin-top: -56px;
+}
+.devinfo {
+    margin-top: -8px;
+    margin-left: 0px;
+    width: 120px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+.devinfotitle {
+    margin-left: 0px;
+    width: 120px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+.devdetails {
+    float: left;
+    height: 150px;
+}
+
 .infotitle {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: bold;
-    margin-top: -8px;
+    margin-top: -10px;
     width: 120px;
+    margin-left: 0px;
 }
+
 
 
 .infodetail {
@@ -381,6 +422,19 @@ h1 {
     width: 100%;
     padding-left: 0px;
 }
+.trailertitle {
+    font-size: 25px;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.trailer {
+    width: 100%;
+    height: 100%;
+    margin-left: 0px;
+}
+
+
 
 
 
